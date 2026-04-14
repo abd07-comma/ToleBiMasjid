@@ -14,6 +14,16 @@ Built and maintained by me as a personal/freelance project.
 
 ---
 
+## Screenshots
+
+![Home Dark](darkm.png)
+![Home](home.png)
+![Rating](rating.png)
+![About](aboutm.png)
+![Profile](profilep.png)
+
+---
+
 ## Features
 
 ### 📚 Learning System (LMS)
@@ -31,11 +41,10 @@ Built and maintained by me as a personal/freelance project.
 ### 🏆 Leaderboard
 - Ranks users by lessons completed
 - Shows % completion progress
-- Motivational — not competitive (as noted on the page)
+- Motivational — not competitive
 
 ### 📖 Useful Tools
 - **Dua collection** — Arabic text, transliteration, translation
-  (Morning, Evening, Bedtime, Post-prayer categories)
 - **Islamic Calendar**
 - **Arabic Dictionary**
 - **News**
@@ -46,7 +55,6 @@ Built and maintained by me as a personal/freelance project.
 - PWA (installable on mobile)
 - Teacher profiles
 - Mosque info page with Google Maps embed
-- Support page
 
 ---
 
@@ -56,36 +64,15 @@ Built and maintained by me as a personal/freelance project.
 |-------|-------|
 | Frontend | React, Vite |
 | Backend | Supabase (auth, database, storage) |
-| Styling | CSS / Tailwind |
 | i18n | react-i18next |
 | PWA | Vite PWA plugin |
 | Routing | React Router |
 
 ---
 
-## Screenshots
-
-### Home — Dark Mode
-![Home Dark](screenshots/home-dark.png)
-
-### Courses Page — Light Mode
-![Courses](screenshots/courses.png)
-
-### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
-
-### Dua Collection
-![Dua](screenshots/dua.png)
-
-### About Mosque
-![About](screenshots/about.png)
-
----
-
 ## Notes
-
 - Built for a real mosque with real active users
-- Multilingual from the start — content in Kazakh, Russian, and English
+- Multilingual from the start — KAZ / RUS / ENG
 - Ongoing project — features added based on community feedback
 
 ---
